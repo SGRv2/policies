@@ -2,15 +2,15 @@
 
 ## 1. Purpose
 
-A primary goal of [BITS Pilani] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of BITS Pilani is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in [BITS Pilani] to help us create safe and positive experiences for everyone.
+We invite all those who participate in APOGEE 2019, BITS Pilani to help us create safe and positive experiences for everyone.
 
-## 2. Open [Tech] Citizenship
+## 2. Open Tech Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open tech citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -57,14 +57,17 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [Shreyasi Ghosh Ray 9674367314 shreyasighoshray@gmail.com].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. 
+Shreyasi Ghosh Ray 
+9674367314 
+shreyasighoshray@gmail.com
 
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [CoStAA, BITS Pilani] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify CoStAA, BITS Pilani with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 https://bits-apogee.org/2019intro/
 
 [NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
@@ -76,10 +79,9 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## 10. Contact info
-
-[Shreyasi Ghosh Ray
+Shreyasi Ghosh Ray
 Phone: +91-9674367314
-Email: shreyasighoshray@gmail.com]
+Email: shreyasighoshray@gmail.com
 
 ## 11. License and attribution
 
